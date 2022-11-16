@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Alexandre!
+
+I am a Full Stack Developer. Degree in Computer Science and specialist in WEB Development.
+
+### Profile
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandremcs&theme=vue)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alexandremcs)
+
+
 
 <!--
 **alexandremcs/alexandremcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
