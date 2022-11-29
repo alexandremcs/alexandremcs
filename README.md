@@ -40,16 +40,16 @@ I am a Full Stack Developer. Degree in Computer Science and specialist in WEB De
 </a>
 
 <div align='center'>
+<a height="150em" href="http://www.github.com/alexandremcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremcs&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
+
+<div align='center'>
 
 <a href="https://www.linkedin.com/in/alex-cavalcanti/" target="_blank" rel="noreferrer">
 <img src="./images/icons8-linkedin.svg" width="32" height="32" />
 </a>
 <a href="mailto:alexmcs@gmail.com" target="_blank" rel="noreferrer">
-<img src="./images/outlook-2019.svg" width="32" height="32" />
+<img src="./images/mail.png" width="32" height="32" />
 </a>
 
-</div>
-
-<div align='center'>
-<a height="150em" href="http://www.github.com/alexandremcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremcs&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
