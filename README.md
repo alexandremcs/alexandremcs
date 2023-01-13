@@ -5,8 +5,8 @@ I am a Full Stack Developer. Degree in Computer Science and specialist in WEB De
 ## :chart_with_upwards_trend: My Stats
 
  <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandremcs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremcs&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandremcs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandremcs&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 ## :bookmark_tabs: My Skill's
