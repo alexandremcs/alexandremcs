@@ -35,10 +35,6 @@ I am a Full Stack Developer. Degree in Computer Science and specialist in WEB De
 <img src="./images/git.svg" width="32" height="32" />
 </a>
 
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-<img src="./images/vs-code.svg" width="32" height="32" />
-</a>
-
 <hr/>
 
 <div align='center'>
