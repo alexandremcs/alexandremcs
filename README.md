@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Alexandre!
 
-I am a Full Stack Developer. Degree in Computer Science and specialist in WEB Development.
+I am a Software Engineer. Degree in Computer Science and a WEB Development specialist.
 
 ## :chart_with_upwards_trend: My Stats
 
  <div align='center'>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandremcs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandremcs&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandremcs&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandremcs&layout=compact&langs_count=7"/>
 </div>
 
 ## :bookmark_tabs: My Skill's
@@ -38,7 +38,7 @@ I am a Full Stack Developer. Degree in Computer Science and specialist in WEB De
 <hr/>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/alexandremcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremcs&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+<a height="150em" href="http://www.github.com/alexandremcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremcs" /></a>
 </div>
 
 <hr/>
