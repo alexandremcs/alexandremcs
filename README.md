@@ -38,12 +38,6 @@ I am a Software Engineer. Degree in Computer Science and a WEB Development speci
 <hr/>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/alexandremcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremcs" /></a>
-</div>
-
-<hr/>
-
-<div align='center'>
  
 <a href="https://www.linkedin.com/in/alex-cavalcanti/" target="_blank" rel="noreferrer">
 <img src="./images/icons8-linkedin.svg" width="32" height="32" />
